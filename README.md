@@ -14,7 +14,7 @@ There are also a tests for each role.
 url:https://dlelias.github.io/Team-Profile-Generator/
 
 Demo: 
-![alt-text](./demo/Team-profile-gen-sceenshot.png)
+![alt-text](.Develop/demo/Team-profile-gen-sceenshot.png)
 
 ![DEMO](https://github.com/Dlelias/Team-Profile-Generator/Develop/demo/Team-profile-gen-demo.gif)
 
