@@ -16,11 +16,11 @@ url:https://dlelias.github.io/Team-Profile-Generator/
 Demo: 
 ![alt-text](./Develop/demo/Team-profile-gen-screenshot.png)
 
-![DEMO](https://github.com/Dlelias/Team-Profile-Generator/Develop/demo/Team-profile-gen-demo.gif)
+![DEMO](https://github.com/Dlelias/Team-Profile-Generator/blob/main/Develop/demo/Team-profile-gen-demo.gif)
 
 Testing Demo:
 
-![DEMO](https://github.com/Dlelias/Team-Profile-Generator/Develop/demo/Testing-demo.gif)
+![DEMO](https://github.com/Dlelias/Team-Profile-Generator/blob/main/Develop/demo/Testing-demo.gif)
 
 
 Usage:
