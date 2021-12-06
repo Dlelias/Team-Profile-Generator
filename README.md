@@ -14,7 +14,7 @@ There are also a tests for each role.
 url:https://dlelias.github.io/Password-Generator/
 
 Demo: 
-![alt-text](.Develop/demo/Team-profile-gen-sceenshot.png)
+![alt-text](./Develop/demo/Team-profile-gen-screenshot.png)
 
 ![DEMO](https://github.com/Dlelias/Team-Profile-Generator/Develop/demo/Team-profile-gen-demo.gif)
 
