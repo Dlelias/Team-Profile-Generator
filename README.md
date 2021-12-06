@@ -11,7 +11,7 @@ There are 2 Javascript files  once handles the questions through node (inquire p
 
 There are also a tests for each role. 
 
-url:https://dlelias.github.io/Password-Generator/
+url:https://dlelias.github.io/Team-Profile-Generator/
 
 Demo: 
 ![alt-text](./demo/Team-profile-gen-sceenshot.png)
